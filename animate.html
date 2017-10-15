@@ -12,13 +12,17 @@
       height: 2019px;
       display: block;
       background-image: url("assets/spritesheet1-1.png");
-      animation: sprite .3s ease-in infinite;
+      animation: sprite .3s steps(24) infinite;
     }
+     @keyframes sprite {
+     100% {
+       background-position: -48840px;
+     }
+    }
+     
    </style>
 </head>
- 
-<body>
-     <body>
+     <body style="background-color: black;">
       <div>
         <nav>
   
