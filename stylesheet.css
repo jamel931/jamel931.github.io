@@ -1,0 +1,103 @@
+body {
+ background: black;
+}
+
+
+button {
+ border:1px solid yellow;
+ background-color:red;
+ color:yellow;
+ padding-top:5px;
+}
+
+button a{
+ color:yellow;
+}
+
+a {
+ color:red;
+}
+
+.fa {
+ font-size: 20px;
+ width: 20px;
+ text-align: center;
+ text-decoration: none;
+ margin: 2px 5px;
+ border-radius:25%;
+ }
+ 
+ .fa { 
+ padding: 20px;
+ }
+
+.fa:hover {
+ opacity: 0.7;
+ }
+ 
+.fa-facebook {
+ background: #3B5998; 
+ color: white ;
+ }
+ 
+.fa-twitter {
+ background: #55ACEE;
+ color: white;
+ }
+ 
+.fa-google {
+ background: #dd4b39;
+ color: white;
+ }
+ 
+ .fa-linkedin {
+ background: #007bb5;
+ color: white;
+ }
+ 
+.fa-youtube {
+ background: #bb0000;
+ color: white;
+ }
+ 
+ img {
+  width:100%;
+  height:10%;   
+ }
+ 
+ p a {
+  color:yellow;
+ }
+ 
+ li {
+ ;
+ float: left;
+ }
+ 
+ li a {
+ color:yellow;
+ padding: 5px;
+ text-decoration: none;
+ }
+ 
+li a:hover{
+ background-color:green;
+ }
+
+.floater {
+ float: right;
+ }
+ 
+#wrap {
+ display: flex; 
+ justify-content: center;
+ align-items: center; 
+ height: 300px;
+ }
+ 
+ 
+ 
+
+@media only screen {iframe { width: 90%; height:65%; }} 
+
+@media only screen {iframe { border:2px solid yellow;  }} 
