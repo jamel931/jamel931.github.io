@@ -60,11 +60,6 @@ a {
  color: white;
  }
  
- img {
-  width:100%;
-  height:10%;   
- }
- 
  p a {
   color:yellow;
  }
@@ -95,9 +90,4 @@ li a:hover{
  height: 300px;
  }
  
- 
- 
 
-@media only screen {iframe { width: 90%; height:65%; }} 
-
-@media only screen {iframe { border:2px solid yellow;  }} 
