@@ -3,8 +3,12 @@ body {
  background: black;
 }
 
+header {
+ 
+}
+
 img {
- width:auto;
+ width:90%;
  height:auto;
 }
 
