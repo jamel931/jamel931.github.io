@@ -56,8 +56,7 @@ button {
  color: white;
  }
  
-.fa-youtube {
- background: #bb0000;
+.fa-youtube { background: #bb0000;
  color: white;
  }
  
@@ -103,6 +102,6 @@ iframe {
  height: 300px;
  }
  
-@media only screen {iframe { width: 90%; height:65%; }} 
+@media only screen {iframe { width: 90%; height:100%; }} 
 
 @media only screen {iframe { border:2px solid yellow;  }} 
