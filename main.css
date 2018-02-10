@@ -24,6 +24,7 @@ a {
  text-align: center;
  text-decoration: none;
  margin: 2px 5px;
+
  border-radius:25%;
  }
  
@@ -82,7 +83,14 @@ li a:hover{
 .floater {
  float: right;
  }
- 
+
+iframe {
+ width:100%;
+ height:100%;
+ background-color:tansparent;
+ border:transparent;
+}
+
 #wrap {
  display: flex; 
  justify-content: center;
