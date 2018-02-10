@@ -1,7 +1,12 @@
+
 body {
  background: black;
 }
 
+img {
+ width:auto;
+ height:auto;
+}
 
 button {
  border:1px solid yellow;
@@ -85,10 +90,15 @@ li a:hover{
  }
 
 iframe {
- width:auto;
- height:auto;
- background-color:tansparent;
- border:transparent;
+ width:50%;
+ height:40%;
+ background-color:red;
+ border:2px;
+ border-color:yellow;
+}
+
+iframe {
+ padding:1;
 }
 
 #wrap {
