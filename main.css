@@ -95,7 +95,7 @@ li a:hover{
  }
 
 iframe {
- width:50%;
+ width:75%;
  height:50%;
  background-color:red;
  border:2px;
@@ -113,6 +113,6 @@ iframe {
  height: 300px;
  }
  
-@media only screen {iframe { width: 50%; height:50%; }} 
+@media only screen {iframe { width: 75%; height:50%; }} 
 
 @media only screen {iframe { border:2px solid yellow;  }} 
