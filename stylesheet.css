@@ -26,8 +26,9 @@ button {
 }
 
 video {
- width: auto;
- height:auto;
+ width:100%;
+ height:285px;
+ image: align-center;
 
 }
 
