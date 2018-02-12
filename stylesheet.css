@@ -26,8 +26,8 @@ button {
 }
 
 video {
- width: 100%;
- height: 30%;
+ width: auto;
+ height:auto;
 
 }
 
