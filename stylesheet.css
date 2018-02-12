@@ -97,7 +97,7 @@ li a:hover{
 
 iframe {
  width:auto;
- height:100%;
+ height:auto;
  background-color:red;
  border:2px solid yellow;
  
