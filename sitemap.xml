@@ -4,9 +4,9 @@
 
    <url>
 
-      <loc>http://www.example.com/</loc>
+      <loc>https://jamel931.gthub.io/</loc>
 
-      <lastmod>2005-01-01</lastmod>
+      <lastmod>2018-26-02</lastmod>
 
       <changefreq>monthly</changefreq>
 
@@ -16,7 +16,7 @@
 
    <url>
 
-      <loc>http://www.example.com/catalog?item=12&amp;desc=vacation_hawaii</loc>
+      <loc>https://jamel931.gthub.io/animation.html</loc>
 
       <changefreq>weekly</changefreq>
 
@@ -24,30 +24,13 @@
 
    <url>
 
-      <loc>http://www.example.com/catalog?item=73&amp;desc=vacation_new_zealand</loc>
+      <loc>https://jamel931.gthub.io/downloads.html</loc>
 
-      <lastmod>2004-12-23</lastmod>
+      <lastmod>2018-26-02</lastmod>
 
       <changefreq>weekly</changefreq>
 
    </url>
 
-   <url>
-
-      <loc>http://www.example.com/catalog?item=74&amp;desc=vacation_newfoundland</loc>
-
-      <lastmod>2004-12-23T18:00:15+00:00</lastmod>
-
-      <priority>0.3</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.example.com/catalog?item=83&amp;desc=vacation_usa</loc>
-
-      <lastmod>2004-11-23</lastmod>
-
-   </url>
 
 </urlset>
